@@ -1,6 +1,6 @@
 #!/bin/bash
 # Daily Persian news fetcher — run from cron. See crontab -l.
-export PATH="$HOME/.opencode/bin:$HOME/.local/bin:$HOME/.npm-global/bin:/usr/local/bin:/usr/bin:/bin"
+export PATH="/snap/bin:$HOME/.opencode/bin:$HOME/.local/bin:$HOME/.npm-global/bin:/usr/local/bin:/usr/bin:/bin"
 REPO_DIR="$HOME/Develop/daily-news-fa"
 cd "$REPO_DIR" || exit 1
 git pull --ff-only origin main 2>&1
