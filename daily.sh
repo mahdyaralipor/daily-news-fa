@@ -26,7 +26,8 @@ if git cat-file -e "origin/main:$REL" 2>/dev/null; then
   exit 0
 fi
 mkdir -p "$TARGET_DIR"
-opencode run --dir "$REPO_DIR" --auto "Use the daily-news-fa skill (~/.config/opencode/skills/daily-news-fa/SKILL.md). Yesterday was $YESTERDAY and its target directory is $TARGET_DIR. If $YESTERDAY.md already exists in $TARGET_DIR and is pushed to origin/main, do nothing and exit. Otherwise collect yesterday's top news, translate to Persian, save $YESTERDAY.md plus dev-ai-$YESTERDAY.md for programming/AI news in $TARGET_DIR, update the README Latest and Dev & AI sections and index (index lists only the current month; past months stay as links under آرشیو ماه‌های گذشته), commit and push. If a new month has started, first archive the previous month's files into archive/YYYY-MM/ with git mv and update README links." 2>&1
+# --dir flag was removed from `opencode run` (2026-11); cwd is already $REPO_DIR
+opencode run --auto "Use the daily-news-fa skill (~/.config/opencode/skills/daily-news-fa/SKILL.md). Yesterday was $YESTERDAY and its target directory is $TARGET_DIR. If $YESTERDAY.md already exists in $TARGET_DIR and is pushed to origin/main, do nothing and exit. Otherwise collect yesterday's top news, translate to Persian, save $YESTERDAY.md plus dev-ai-$YESTERDAY.md for programming/AI news in $TARGET_DIR, update the README Latest and Dev & AI sections and index (index lists only the current month; past months stay as links under آرشیو ماه‌های گذشته), commit and push. If a new month has started, first archive the previous month's files into archive/YYYY-MM/ with git mv and update README links." 2>&1
 rc=$?
 echo "$(date -Is) opencode exit=$rc"
 exit "$rc"
