@@ -6,21 +6,19 @@ Every day, the previous day's top news in Persian, with sources.
 
 ## آخرین خبرها | Latest
 
-### [دوشنبه ۱۶ نوامبر ۲۰۲۶ (۲۵ آبان ۱۴۰۵)](2026-11-16.md)
+### [سه‌شنبه ۱۷ نوامبر ۲۰۲۶ (۲۶ آبان ۱۴۰۵)](2026-11-17.md)
 
-![تصویر مرتبط با خبر اصلی روز: پهپادهای ایران بار دیگر به بحرین حمله کردند](images/2026-11-16-Map-of-Ardashir-shapur-s-campaign.jpg)
+![تصویر مرتبط با خبر اصلی روز: ناو هواپیمابر سوم ایالات متحده به خاورمیانه رسید](images/2026-11-17-52-cultural-sites-thread.png)
 
-*تصویر مرتبط از ویکی‌مدیا — عکس: Gire 3pich2005
+*تصویر مرتبط از ویکی‌مدیا — عکس: @realDonaldTrump، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:52_cultural_sites_thread.png)، مجوز Public domain*
 
- This  image was created with Adobe Photosho، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Map_of_Ardashir_%26_shapur%27s_campaign.jpg)، مجوز CC BY-SA 3.0*
-
-پهپادهای ایران بار دیگر به بحرین حمله کردند • ترامپ ممکن است حمله به ایران را به تعویق اندازد • استونی مرزهای خود با روسیه را می‌بندد • در یک نگاه • از جوامع فنی (V2EX)
+ناو هواپیمابر سوم ایالات متحده به خاورمیانه رسید • برون‌ریزی ویروس ابولا در کنگو • سقوط بازار سهام تایوان • در یک نگاه • از جوامع فنی (V2EX)
 
 ## برنامه‌نویسی و هوش مصنوعی | Dev & AI
 
-### [دوشنبه ۱۶ نوامبر ۲۰۲۶](dev-ai-2026-11-16.md)
+### [سه‌شنبه ۱۷ نوامبر ۲۰۲۶](dev-ai-2026-11-17.md)
 
-Nvidia • OpenAI • Clice • Nvidia
+Sutra-OS • OpenCode Browse • Aristotle • Optimizely
 
 ## ساختار
 
@@ -31,6 +29,9 @@ Nvidia • OpenAI • Clice • Nvidia
 - تصاویر خبر اصلی در `images/`
 
 ## فهرست — نوامبر ۲۰۲۶
+
+- [2026-11-17](2026-11-17.md) — ناو هواپیمابر سوم ایالات متحده به خاورمیانه رسید؛ برون‌ریزی ویروس ابولا در کنگو…
+- [dev-ai-2026-11-17](dev-ai-2026-11-17.md) — برنامه‌نویسی و هوش مصنوعی: Sutra-OS، OpenCode Browse، Aristotle
 
 - [2026-11-16](2026-11-16.md) — پهپادهای ایران بار دیگر به بحرین حمله کردند؛ ترامپ ممکن است حمله به ایران را به تعویق اندازد…
 - [dev-ai-2026-11-16](dev-ai-2026-11-16.md) — برنامه‌نویسی و هوش مصنوعی: Nvidia، OpenAI، Clice
