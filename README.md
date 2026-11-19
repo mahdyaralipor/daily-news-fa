@@ -6,19 +6,19 @@ Every day, the previous day's top news in Persian, with sources.
 
 ## آخرین خبرها | Latest
 
-### [سه‌شنبه ۱۷ نوامبر ۲۰۲۶ (۲۶ آبان ۱۴۰۵)](2026-11-17.md)
+### [چهارشنبه ۱۸ نوامبر ۲۰۲۶ (۲۷ آبان ۱۴۰۵)](2026-11-18.md)
 
-![تصویر مرتبط با خبر اصلی روز: ناو هواپیمابر سوم ایالات متحده به خاورمیانه رسید](images/2026-11-17-52-cultural-sites-thread.png)
+![تصویر مرتبط با خبر اصلی روز: ایران و آمریکا در خلیج فارس](images/2026-11-18-Iran-IMG-3457-Beheshte-Zahra-Tehran-2865.jpg)
 
-*تصویر مرتبط از ویکی‌مدیا — عکس: @realDonaldTrump، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:52_cultural_sites_thread.png)، مجوز Public domain*
+*تصویر مرتبط از ویکی‌مدیا — عکس: Ninara from Helsinki, Finland، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Iran_IMG_3457_Beheshte_Zahra,_Tehran_(2865613274).jpg)، مجوز CC BY 2.0*
 
-ناو هواپیمابر سوم ایالات متحده به خاورمیانه رسید • برون‌ریزی ویروس ابولا در کنگو • سقوط بازار سهام تایوان • در یک نگاه • از جوامع فنی (V2EX)
+ایران و آمریکا در خلیج فارس • وضعیت بهداشت در آمریکا • اوکراین و روسیه • قطر و ایران • در یک نگاه • از جوامع فنی (V2EX)
 
 ## برنامه‌نویسی و هوش مصنوعی | Dev & AI
 
-### [سه‌شنبه ۱۷ نوامبر ۲۰۲۶](dev-ai-2026-11-17.md)
+### [چهارشنبه ۱۸ نوامبر ۲۰۲۶](dev-ai-2026-11-18.md)
 
-Sutra-OS • OpenCode Browse • Aristotle • Optimizely
+GPT‑۶.۲ Astra و Sol • MAI Code ۲ و Code ۲ Flash • Solid ۲.۰ • jQuery ۴.۱.۰
 
 ## ساختار
 
@@ -29,6 +29,9 @@ Sutra-OS • OpenCode Browse • Aristotle • Optimizely
 - تصاویر خبر اصلی در `images/`
 
 ## فهرست — نوامبر ۲۰۲۶
+
+- [2026-11-18](2026-11-18.md) — ایران و آمریکا در خلیج فارس؛ وضعیت بهداشت در آمریکا…
+- [dev-ai-2026-11-18](dev-ai-2026-11-18.md) — برنامه‌نویسی و هوش مصنوعی: GPT‑۶.۲ Astra و Sol، MAI Code ۲ و Code ۲ Flash، Solid ۲.۰
 
 - [2026-11-17](2026-11-17.md) — ناو هواپیمابر سوم ایالات متحده به خاورمیانه رسید؛ برون‌ریزی ویروس ابولا در کنگو…
 - [dev-ai-2026-11-17](dev-ai-2026-11-17.md) — برنامه‌نویسی و هوش مصنوعی: Sutra-OS، OpenCode Browse، Aristotle
