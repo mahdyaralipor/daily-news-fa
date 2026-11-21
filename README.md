@@ -6,19 +6,19 @@ Every day, the previous day's top news in Persian, with sources.
 
 ## آخرین خبرها | Latest
 
-### [پنجشنبه ۱۹ نوامبر ۲۰۲۶ (۲۸ آبان ۱۴۰۵)](2026-11-19.md)
+### [جمعه ۲۰ نوامبر ۲۰۲۶ (۲۹ آبان ۱۴۰۵)](2026-11-20.md)
 
-![تصویر مرتبط با خبر اصلی روز: ایران به پایگاه آمریکا در کویت حمله کرد](images/2026-11-19-Iran-IMG-3457-Beheshte-Zahra-Tehran-2865.jpg)
+![تصویر مرتبط با خبر اصلی روز: اجلاس سه‌جانبه در شنژن](images/2026-11-20-Thespis-Illustrated-London-News-Jan-6-18.png)
 
-*تصویر مرتبط از ویکی‌مدیا — عکس: Ninara from Helsinki, Finland، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Iran_IMG_3457_Beheshte_Zahra,_Tehran_(2865613274).jpg)، مجوز CC BY 2.0*
+*تصویر مرتبط از ویکی‌مدیا — عکس: David Henry Friston، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Thespis_-_Illustrated_London_News_Jan_6_1872.png)، مجوز Public domain*
 
-ایران به پایگاه آمریکا در کویت حمله کرد • شیوع ایدز در کنگو • انتخابات سنای آمریکا • در یک نگاه • از جوامع فنی (V2EX)
+اجلاس سه‌جانبه در شنژن • زمین‌لرزه در پرو • عملیات سایبری بریتانیا • در یک نگاه • از جوامع فنی (V2EX)
 
 ## برنامه‌نویسی و هوش مصنوعی | Dev & AI
 
-### [پنجشنبه ۱۹ نوامبر ۲۰۲۶](dev-ai-2026-11-19.md)
+### [جمعه ۲۰ نوامبر ۲۰۲۶](dev-ai-2026-11-20.md)
 
-Gemini ۴ Neon • Genie ۴ • DaisyRose-۲۷B • Palo Alto Networks
+Gemini 4 Neon • Claude • Bending Spoons • Visa, Mastercard و JPMorgan
 
 ## ساختار
 
@@ -29,6 +29,9 @@ Gemini ۴ Neon • Genie ۴ • DaisyRose-۲۷B • Palo Alto Networks
 - تصاویر خبر اصلی در `images/`
 
 ## فهرست — نوامبر ۲۰۲۶
+
+- [2026-11-20](2026-11-20.md) — اجلاس سه‌جانبه در شنژن؛ زمین‌لرزه در پرو…
+- [dev-ai-2026-11-20](dev-ai-2026-11-20.md) — برنامه‌نویسی و هوش مصنوعی: Gemini 4 Neon، Claude، Bending Spoons
 
 - [2026-11-19](2026-11-19.md) — ایران به پایگاه آمریکا در کویت حمله کرد؛ شیوع ایدز در کنگو…
 - [dev-ai-2026-11-19](dev-ai-2026-11-19.md) — برنامه‌نویسی و هوش مصنوعی: Gemini ۴ Neon، Genie ۴، DaisyRose-۲۷B
