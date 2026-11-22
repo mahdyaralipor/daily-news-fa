@@ -6,19 +6,19 @@ Every day, the previous day's top news in Persian, with sources.
 
 ## آخرین خبرها | Latest
 
-### [جمعه ۲۰ نوامبر ۲۰۲۶ (۲۹ آبان ۱۴۰۵)](2026-11-20.md)
+### [شنبه ۲۱ نوامبر ۲۰۲۶ (۳۰ آبان ۱۴۰۵)](2026-11-21.md)
 
-![تصویر مرتبط با خبر اصلی روز: اجلاس سه‌جانبه در شنژن](images/2026-11-20-Thespis-Illustrated-London-News-Jan-6-18.png)
+![تصویر مرتبط با خبر اصلی روز: تصمیم ترامپ برای حمله به ایران به سال آینده موکول شد](images/2026-11-21-DN-ST-88-09823.jpg)
 
-*تصویر مرتبط از ویکی‌مدیا — عکس: David Henry Friston، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Thespis_-_Illustrated_London_News_Jan_6_1872.png)، مجوز Public domain*
+*تصویر مرتبط از ویکی‌مدیا — عکس: PHCS Mitchell، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:DN-ST-88-09823.jpg)، مجوز Public domain*
 
-اجلاس سه‌جانبه در شنژن • زمین‌لرزه در پرو • عملیات سایبری بریتانیا • در یک نگاه • از جوامع فنی (V2EX)
+تصمیم ترامپ برای حمله به ایران به سال آینده موکول شد • زمین‌لرزه‌ای به بزرگی ۶٫۷ ریشتر در پرو رخ داد • دیوان بین‌المللی دادگستری ایران را مسئول نسل‌کشی روهینگیا دانست • در یک نگاه • از جوامع فنی (V2EX)
 
 ## برنامه‌نویسی و هوش مصنوعی | Dev & AI
 
-### [جمعه ۲۰ نوامبر ۲۰۲۶](dev-ai-2026-11-20.md)
+### [شنبه ۲۱ نوامبر ۲۰۲۶](dev-ai-2026-11-21.md)
 
-Gemini 4 Neon • Claude • Bending Spoons • Visa, Mastercard و JPMorgan
+Inkling ۲ Mini • DreamCoder • Google DeepMind • Nvidia
 
 ## ساختار
 
@@ -29,6 +29,9 @@ Gemini 4 Neon • Claude • Bending Spoons • Visa, Mastercard و JPMorgan
 - تصاویر خبر اصلی در `images/`
 
 ## فهرست — نوامبر ۲۰۲۶
+
+- [2026-11-21](2026-11-21.md) — تصمیم ترامپ برای حمله به ایران به سال آینده موکول شد؛ زمین‌لرزه‌ای به بزرگی ۶٫۷ ریشتر در پرو رخ داد…
+- [dev-ai-2026-11-21](dev-ai-2026-11-21.md) — برنامه‌نویسی و هوش مصنوعی: Inkling ۲ Mini، DreamCoder، Google DeepMind
 
 - [2026-11-20](2026-11-20.md) — اجلاس سه‌جانبه در شنژن؛ زمین‌لرزه در پرو…
 - [dev-ai-2026-11-20](dev-ai-2026-11-20.md) — برنامه‌نویسی و هوش مصنوعی: Gemini 4 Neon، Claude، Bending Spoons
