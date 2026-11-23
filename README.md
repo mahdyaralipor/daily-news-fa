@@ -6,19 +6,19 @@ Every day, the previous day's top news in Persian, with sources.
 
 ## آخرین خبرها | Latest
 
-### [شنبه ۲۱ نوامبر ۲۰۲۶ (۳۰ آبان ۱۴۰۵)](2026-11-21.md)
+### [یکشنبه ۲۲ نوامبر ۲۰۲۶ (۱ آذر ۱۴۰۵)](2026-11-22.md)
 
-![تصویر مرتبط با خبر اصلی روز: تصمیم ترامپ برای حمله به ایران به سال آینده موکول شد](images/2026-11-21-DN-ST-88-09823.jpg)
+![تصویر مرتبط با خبر اصلی روز: حملات به نفت‌کش‌ها در تنگهٔ هرمز](images/2026-11-22-MV-Kokuka-Courageous-with-hull-damage-an.png)
 
-*تصویر مرتبط از ویکی‌مدیا — عکس: PHCS Mitchell، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:DN-ST-88-09823.jpg)، مجوز Public domain*
+*تصویر مرتبط از ویکی‌مدیا — عکس: US Navy، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:MV_Kokuka_Courageous_with_hull_damage_and_mine.png)، مجوز Public domain*
 
-تصمیم ترامپ برای حمله به ایران به سال آینده موکول شد • زمین‌لرزه‌ای به بزرگی ۶٫۷ ریشتر در پرو رخ داد • دیوان بین‌المللی دادگستری ایران را مسئول نسل‌کشی روهینگیا دانست • در یک نگاه • از جوامع فنی (V2EX)
+حملات به نفت‌کش‌ها در تنگهٔ هرمز • گفتگوهای قطر و ایران • در یک نگاه • از جوامع فنی (V2EX) • فناوری و AI
 
 ## برنامه‌نویسی و هوش مصنوعی | Dev & AI
 
-### [شنبه ۲۱ نوامبر ۲۰۲۶](dev-ai-2026-11-21.md)
+### [یکشنبه ۲۲ نوامبر ۲۰۲۶](dev-ai-2026-11-22.md)
 
-Inkling ۲ Mini • DreamCoder • Google DeepMind • Nvidia
+PcapAnalyzer • Inkling-2-Mini • Zero C# • Lean verification of the Riemann Hypothesis
 
 ## ساختار
 
@@ -29,6 +29,9 @@ Inkling ۲ Mini • DreamCoder • Google DeepMind • Nvidia
 - تصاویر خبر اصلی در `images/`
 
 ## فهرست — نوامبر ۲۰۲۶
+
+- [2026-11-22](2026-11-22.md) — حملات به نفت‌کش‌ها در تنگهٔ هرمز؛ گفتگوهای قطر و ایران…
+- [dev-ai-2026-11-22](dev-ai-2026-11-22.md) — برنامه‌نویسی و هوش مصنوعی: PcapAnalyzer، Inkling-2-Mini، Zero C#
 
 - [2026-11-21](2026-11-21.md) — تصمیم ترامپ برای حمله به ایران به سال آینده موکول شد؛ زمین‌لرزه‌ای به بزرگی ۶٫۷ ریشتر در پرو رخ داد…
 - [dev-ai-2026-11-21](dev-ai-2026-11-21.md) — برنامه‌نویسی و هوش مصنوعی: Inkling ۲ Mini، DreamCoder، Google DeepMind
