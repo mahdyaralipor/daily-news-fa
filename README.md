@@ -6,19 +6,19 @@ Every day, the previous day's top news in Persian, with sources.
 
 ## آخرین خبرها | Latest
 
-### [یکشنبه ۲۲ نوامبر ۲۰۲۶ (۱ آذر ۱۴۰۵)](2026-11-22.md)
+### [دوشنبه ۲۳ نوامبر ۲۰۲۶ (۲ آذر ۱۴۰۵)](2026-11-23.md)
 
-![تصویر مرتبط با خبر اصلی روز: حملات به نفت‌کش‌ها در تنگهٔ هرمز](images/2026-11-22-MV-Kokuka-Courageous-with-hull-damage-an.png)
+![تصویر مرتبط با خبر اصلی روز: حمله ایران به یک سایت صنعتی در بحرین](images/2026-11-23-The-Middle-East-Military-Balance-1997.jpg)
 
-*تصویر مرتبط از ویکی‌مدیا — عکس: US Navy، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:MV_Kokuka_Courageous_with_hull_damage_and_mine.png)، مجوز Public domain*
+*تصویر مرتبط از ویکی‌مدیا — عکس: Institute for National Strategic Studies (INSS.)، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:The_Middle_East_Military_Balance,_1997.jpg)، مجوز Public domain*
 
-حملات به نفت‌کش‌ها در تنگهٔ هرمز • گفتگوهای قطر و ایران • در یک نگاه • از جوامع فنی (V2EX) • فناوری و AI
+حمله ایران به یک سایت صنعتی در بحرین • شکست مذاکرات تغییرات اقلیمی • موشک‌های کروز روسیه در لهستان • در یک نگاه • از جوامع فنی (V2EX)
 
 ## برنامه‌نویسی و هوش مصنوعی | Dev & AI
 
-### [یکشنبه ۲۲ نوامبر ۲۰۲۶](dev-ai-2026-11-22.md)
+### [دوشنبه ۲۳ نوامبر ۲۰۲۶](dev-ai-2026-11-23.md)
 
-PcapAnalyzer • Inkling-2-Mini • Zero C# • Lean verification of the Riemann Hypothesis
+C++26 • Localcode • GLP-1 • Harvard CS 2881R
 
 ## ساختار
 
@@ -29,6 +29,9 @@ PcapAnalyzer • Inkling-2-Mini • Zero C# • Lean verification of the Riemann
 - تصاویر خبر اصلی در `images/`
 
 ## فهرست — نوامبر ۲۰۲۶
+
+- [2026-11-23](2026-11-23.md) — حمله ایران به یک سایت صنعتی در بحرین؛ شکست مذاکرات تغییرات اقلیمی…
+- [dev-ai-2026-11-23](dev-ai-2026-11-23.md) — برنامه‌نویسی و هوش مصنوعی: C++26، Localcode، GLP-1
 
 - [2026-11-22](2026-11-22.md) — حملات به نفت‌کش‌ها در تنگهٔ هرمز؛ گفتگوهای قطر و ایران…
 - [dev-ai-2026-11-22](dev-ai-2026-11-22.md) — برنامه‌نویسی و هوش مصنوعی: PcapAnalyzer، Inkling-2-Mini، Zero C#
