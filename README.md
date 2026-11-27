@@ -6,19 +6,19 @@ Every day, the previous day's top news in Persian, with sources.
 
 ## آخرین خبرها | Latest
 
-### [چهارشنبه ۲۵ نوامبر ۲۰۲۶ (۴ آذر ۱۴۰۵)](2026-11-25.md)
+### [پنجشنبه ۲۶ نوامبر ۲۰۲۶ (۵ آذر ۱۴۰۵)](2026-11-26.md)
 
-![تصویر مرتبط با خبر اصلی روز: ایران: چهارمین نفت‌کش به معدن در تنگهٔ هرمز برخورد کرد](images/2026-11-25-Iranian-naval-forces-board-MT-Wila-Augus.jpg)
+![تصویر مرتبط با خبر اصلی روز: حملهٔ هوثی‌ها به عربستان](images/2026-11-26-Mehr-infographic-Yemeni-missile-attacks-.jpg)
 
-*تصویر مرتبط از ویکی‌مدیا — عکس: U.S. Navy، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Iranian_naval_forces_board_MT_Wila,_August_12,_2020_(3).jpg)، مجوز Public domain*
+*تصویر مرتبط از ویکی‌مدیا — عکس: Mehr News، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Mehr_infographic_-_Yemeni_missile_attacks_on_Saudi_Arabia.jpg)، مجوز CC BY 4.0*
 
-ایران: چهارمین نفت‌کش به معدن در تنگهٔ هرمز برخورد کرد • چین: عضو پولیتبورو تحت تحقیقات قرار گرفته است • دادگاه بین‌المللی: میانمار مقصر جنایت علیه بشریت است • قطر: تلاش برای از سرگیری مذاکرات بین ایران و ایالات متحده • در یک نگاه • از جوامع فنی (V2EX)
+حملهٔ هوثی‌ها به عربستان • افزایش دمای جهانی • همکاری دفاعی ترکیه و عربستان • در یک نگاه • از جوامع فنی (V2EX)
 
 ## برنامه‌نویسی و هوش مصنوعی | Dev & AI
 
-### [چهارشنبه ۲۵ نوامبر ۲۰۲۶](dev-ai-2026-11-25.md)
+### [پنجشنبه ۲۶ نوامبر ۲۰۲۶](dev-ai-2026-11-26.md)
 
-Ternary Bonsai ۲.۵ ۲۷B • GPT-۶ models • Fable ۵.۲ • Nvidia
+Jev • Bare Metal Qwen • GRH Lean • SpaceX
 
 ## ساختار
 
@@ -29,6 +29,9 @@ Ternary Bonsai ۲.۵ ۲۷B • GPT-۶ models • Fable ۵.۲ • Nvidia
 - تصاویر خبر اصلی در `images/`
 
 ## فهرست — نوامبر ۲۰۲۶
+
+- [2026-11-26](2026-11-26.md) — حملهٔ هوثی‌ها به عربستان؛ افزایش دمای جهانی…
+- [dev-ai-2026-11-26](dev-ai-2026-11-26.md) — برنامه‌نویسی و هوش مصنوعی: Jev، Bare Metal Qwen، GRH Lean
 
 - [2026-11-25](2026-11-25.md) — ایران: چهارمین نفت‌کش به معدن در تنگهٔ هرمز برخورد کرد؛ چین: عضو پولیتبورو تحت تحقیقات قرار گرفته است…
 - [dev-ai-2026-11-25](dev-ai-2026-11-25.md) — برنامه‌نویسی و هوش مصنوعی: Ternary Bonsai ۲.۵ ۲۷B، GPT-۶ models، Fable ۵.۲
