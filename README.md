@@ -6,19 +6,19 @@ Every day, the previous day's top news in Persian, with sources.
 
 ## آخرین خبرها | Latest
 
-### [پنجشنبه ۲۶ نوامبر ۲۰۲۶ (۵ آذر ۱۴۰۵)](2026-11-26.md)
+### [جمعه ۲۷ نوامبر ۲۰۲۶ (۶ آذر ۱۴۰۵)](2026-11-27.md)
 
-![تصویر مرتبط با خبر اصلی روز: حملهٔ هوثی‌ها به عربستان](images/2026-11-26-Mehr-infographic-Yemeni-missile-attacks-.jpg)
+![تصویر مرتبط با خبر اصلی روز: ایران و اسرائیل](images/2026-11-27-Iran-Israel-proxy-conflict.png)
 
-*تصویر مرتبط از ویکی‌مدیا — عکس: Mehr News، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Mehr_infographic_-_Yemeni_missile_attacks_on_Saudi_Arabia.jpg)، مجوز CC BY 4.0*
+*تصویر مرتبط از ویکی‌مدیا — عکس: Yerevantsi، [منبع در ویکیمدیا](https://commons.wikimedia.org/wiki/File:Iran%E2%80%93Israel_proxy_conflict.png)، مجوز CC BY-SA 4.0*
 
-حملهٔ هوثی‌ها به عربستان • افزایش دمای جهانی • همکاری دفاعی ترکیه و عربستان • در یک نگاه • از جوامع فنی (V2EX)
+ایران و اسرائیل • بروز بیماری ابولا • کره شمالی و سلاح‌های هسته‌ای • در یک نگاه • از جوامع فنی (V2EX)
 
 ## برنامه‌نویسی و هوش مصنوعی | Dev & AI
 
-### [پنجشنبه ۲۶ نوامبر ۲۰۲۶](dev-ai-2026-11-26.md)
+### [جمعه ۲۷ نوامبر ۲۰۲۶](dev-ai-2026-11-27.md)
 
-Jev • Bare Metal Qwen • GRH Lean • SpaceX
+AMD-specific fork of llama.cpp • Rvoip: VoIP stack in Rust • Largest 2D Chart library in the world using BUI: BlenderUI • AI made self-hosting fun again
 
 ## ساختار
 
@@ -29,6 +29,9 @@ Jev • Bare Metal Qwen • GRH Lean • SpaceX
 - تصاویر خبر اصلی در `images/`
 
 ## فهرست — نوامبر ۲۰۲۶
+
+- [2026-11-27](2026-11-27.md) — ایران و اسرائیل؛ بروز بیماری ابولا…
+- [dev-ai-2026-11-27](dev-ai-2026-11-27.md) — برنامه‌نویسی و هوش مصنوعی: AMD-specific fork of llama.cpp، Rvoip: VoIP stack in Rust، Largest 2D Chart library in the world using BUI: BlenderUI
 
 - [2026-11-26](2026-11-26.md) — حملهٔ هوثی‌ها به عربستان؛ افزایش دمای جهانی…
 - [dev-ai-2026-11-26](dev-ai-2026-11-26.md) — برنامه‌نویسی و هوش مصنوعی: Jev، Bare Metal Qwen، GRH Lean
